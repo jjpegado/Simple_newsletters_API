@@ -46,7 +46,7 @@ O servidor estará disponível em `http://localhost:3000`.
 
 ## Endpoints da API
 
-- `POST /subscribe`: Inscreve um novo usuário na newsletter. Requer um corpo JSON com os campos `email` e `name`.
+- `POST /usuario`: Inscreve um novo usuário na newsletter. Requer um corpo JSON com os campos `email` e `name`.
 
 ## Tecnologias Utilizadas
 
